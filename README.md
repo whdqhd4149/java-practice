@@ -34,3 +34,10 @@ Java/Spring Boot 백엔드 개발자가 되기 위한
 - for문과 if문을 활용한 짝수 합계 계산
 - 최대 매수 가능 수량 및 잔액 계산
 - 구구단 7단 출력 실습
+
+### Day 04 - switch문과 while문
+- Day 03 복습
+- switch 조건문
+- case, break, default
+- while 반복문
+- switch와 while을 활용한 주식 거래 메뉴 실습
