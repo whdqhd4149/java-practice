@@ -41,3 +41,10 @@ Java/Spring Boot 백엔드 개발자가 되기 위한
 - case, break, default
 - while 반복문
 - switch와 while을 활용한 주식 거래 메뉴 실습
+
+### Day 05 - 메서드
+- 메서드 선언 및 호출
+- 매개변수와 인자
+- 반환 자료형(void, int)과 return
+- 메서드 재사용
+- 주식 매수금액 및 남은 예산 계산 실습
